@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/secret-talker/static/css/main.596461b9.css",
-    "main.js": "/secret-talker/static/js/main.c6bf4387.js",
+    "main.js": "/secret-talker/static/js/main.60c2552e.js",
     "static/js/787.70aad13f.chunk.js": "/secret-talker/static/js/787.70aad13f.chunk.js",
     "index.html": "/secret-talker/index.html",
     "main.596461b9.css.map": "/secret-talker/static/css/main.596461b9.css.map",
-    "main.c6bf4387.js.map": "/secret-talker/static/js/main.c6bf4387.js.map",
+    "main.60c2552e.js.map": "/secret-talker/static/js/main.60c2552e.js.map",
     "787.70aad13f.chunk.js.map": "/secret-talker/static/js/787.70aad13f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.596461b9.css",
-    "static/js/main.c6bf4387.js"
+    "static/js/main.60c2552e.js"
   ]
 }
