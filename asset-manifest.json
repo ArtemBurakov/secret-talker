@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.596461b9.css",
-    "main.js": "/static/js/main.ea1ae7b2.js",
-    "static/js/787.70aad13f.chunk.js": "/static/js/787.70aad13f.chunk.js",
-    "index.html": "/index.html",
-    "main.596461b9.css.map": "/static/css/main.596461b9.css.map",
-    "main.ea1ae7b2.js.map": "/static/js/main.ea1ae7b2.js.map",
-    "787.70aad13f.chunk.js.map": "/static/js/787.70aad13f.chunk.js.map"
+    "main.css": "/secret-talker/static/css/main.596461b9.css",
+    "main.js": "/secret-talker/static/js/main.c6bf4387.js",
+    "static/js/787.70aad13f.chunk.js": "/secret-talker/static/js/787.70aad13f.chunk.js",
+    "index.html": "/secret-talker/index.html",
+    "main.596461b9.css.map": "/secret-talker/static/css/main.596461b9.css.map",
+    "main.c6bf4387.js.map": "/secret-talker/static/js/main.c6bf4387.js.map",
+    "787.70aad13f.chunk.js.map": "/secret-talker/static/js/787.70aad13f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.596461b9.css",
-    "static/js/main.ea1ae7b2.js"
+    "static/js/main.c6bf4387.js"
   ]
 }
